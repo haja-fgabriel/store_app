@@ -1,0 +1,21 @@
+[2019-05-17 15:47:02] [info] Start Program:
+Path:"D:\Documents\facultate\sem2\OOP\lab\sapt10\tema_lab10\Win32\Debug\tema_lab10.exe"
+Arguments:
+Working directory: "D:\Documents\facultate\sem2\OOP\lab\sapt10\tema_lab10\tema_lab10\"
+Modules: Selected: D:\Documents\facultate\sem2\OOP\lab\sapt10\tema_lab10\Win32\Debug\tema_lab10.exe Excluded: 
+Sources: Selected: D:\Documents\facultate\sem2\OOP\lab\sapt10\tema_lab10\tema_lab10 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Florin\AppData\Local\Temp\vxx3manp.c1b 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-05-17 15:47:02] [info] Module: D:\Documents\facultate\sem2\OOP\lab\sapt10\tema_lab10\Win32\Debug\tema_lab10.exe is selected because it matches selected pattern: D:\Documents\facultate\sem2\OOP\lab\sapt10\tema_lab10\Win32\Debug\tema_lab10.exe
+[2019-05-17 15:47:02] [info] ----------------------------------------------------
+[2019-05-17 15:47:02] [info] Coverage binary generated in file: C:\Users\Florin\AppData\Local\Temp\vxx3manp.c1b
+[2019-05-17 15:47:02] [info] ----------------------------------------------------
